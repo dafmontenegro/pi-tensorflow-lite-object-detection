@@ -374,7 +374,7 @@ guard_thread.start()
 ## 5. Contributing
 Contributions to FLDSMDFR (an alternative name for the project) are welcome from developers, researchers, and enthusiasts interested in real-time object detection, parallel computing, and Raspberry Pi applications. We encourage collaborative efforts to enhance the system's features, optimize performance, and improve usability.
 
-### 5.1 [FLDSMDFR](https://github.com/dafmontenegro/pi-tensorflow-lite-object-detection/blob/master/audio/FLDSMDFR_pi-tensorflow-lite-object-detection.mp3):
+### [5.1 FLDSMDFR:](https://github.com/dafmontenegro/pi-tensorflow-lite-object-detection/blob/master/audio/FLDSMDFR_pi-tensorflow-lite-object-detection.mp3)
 - **F**: Flask
 - **L**: Lightweight
 - **D**: Detection
