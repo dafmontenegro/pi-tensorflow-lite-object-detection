@@ -9,6 +9,16 @@ This project builds a **real-time object detection** system using a **Raspberry 
 - **Storage Management:** Monitors and manages storage capacity, automatically deleting old events when necessary.
 - **Web Interface:** Creates a local network server to stream live video, view saved recordings, and access event logs. Users can monitor live footage, browse archived video segments, and view logs through the web interface.
 
+An alternative name of this project is [FLDSMDFR](https://github.com/dafmontenegro/pi-tensorflow-lite-object-detection/blob/master/audio/FLDSMDFR_pi-tensorflow-lite-object-detection.mp3):
+- **F**: Flask
+- **L**: Lightweight
+- **D**: Detection
+- **S**: System
+- **M**: Machine Learning
+- **D**: Device
+- **F**: Fast
+- **R**: Recognition
+
 ### Table Of Contents <!-- omit in toc -->
 - [1. General Specifications](#1-general-specifications)
     - [1.1 Requirements](#11-requirements)
@@ -29,7 +39,6 @@ This project builds a **real-time object detection** system using a **Raspberry 
     - [4.5 class StorageManager](#45-class-storagemanager)
     - [4.6 Initial Configuration](#46-initial-configuration)
 - [5. Contributing](#5-contributing)
-    - [5.1 FLDSMDFR:](#51-fldsmdfr)
 - [6. References](#6-references)
 
 ## Author
@@ -372,17 +381,7 @@ guard_thread.start()
 ```
 
 ## 5. Contributing
-Contributions to FLDSMDFR (an alternative name for the project) are welcome from developers, researchers, and enthusiasts interested in real-time object detection, parallel computing, and Raspberry Pi applications. We encourage collaborative efforts to enhance the system's features, optimize performance, and improve usability.
-
-### [5.1 FLDSMDFR:](https://github.com/dafmontenegro/pi-tensorflow-lite-object-detection/blob/master/audio/FLDSMDFR_pi-tensorflow-lite-object-detection.mp3)
-- **F**: Flask
-- **L**: Lightweight
-- **D**: Detection
-- **S**: System
-- **M**: Machine Learning
-- **D**: Device
-- **F**: Fast
-- **R**: Recognition
+Contributions to FLDSMDFR (the alternative name for the project) are welcome from developers, researchers, and enthusiasts interested in real-time object detection, parallel computing, and Raspberry Pi applications. We encourage collaborative efforts to enhance the system's features, optimize performance, and improve usability.
 
 ## 6. References
 [1] Tensorflow. (s. f.). examples/lite/examples/object_detection/raspberry_pi at master · tensorflow/examples. GitHub. https://github.com/tensorflow/examples/tree/master/lite/examples/object_detection/raspberry_pi
