@@ -97,11 +97,17 @@ What this means is that the project can recognize up to 80 different types of ob
 ### 3.1 Human detector
 👤 Click [here](https://github.com/dafmontenegro/pi-tensorflow-lite-object-detection/blob/master/videos/human_pi-tensorflow-lite-object-detection.mp4) to be redirected to the video.
 
+https://github.com/user-attachments/assets/8ed0d507-3f96-436a-8fbc-2fb26e15758d
+
 ### 3.2 Banana detector
 🍌 Click  [here](https://github.com/dafmontenegro/pi-tensorflow-lite-object-detection/blob/master/videos/banana_pi-tensorflow-lite-object-detection.mp4) to be redirected to the video
 
+https://github.com/user-attachments/assets/a0feeab2-150c-4ff6-948f-359bd37c7cc8
+
 ### 3.3 Cat detector
 😸 Click [here](https://github.com/dafmontenegro/pi-tensorflow-lite-object-detection/blob/master/videos/cat_pi-tensorflow-lite-object-detection.mp4) to be redirected to the video
+
+https://github.com/user-attachments/assets/d2ddcfe8-e7c7-4bea-97cd-1d9ba820224b
 
 ## 4. Code
 
